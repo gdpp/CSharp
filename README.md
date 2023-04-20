@@ -12,83 +12,83 @@ With **.NET**, you can use multiple languages, editors, and libraries to build f
 
 If you're interested in learning **C#**, here's a roadmap that can help guide you through the learning process:
 
-**1. Learn C# Fundaments:**
+-   [ ] **1. Learn C# Fundaments:**
 
--   Project Creation.
--   Datatypes.
--   Variables.
--   Arithmetic Operators.
--   Arithmetic Expressions.
--   Strings.
--   Control Structures.
--   Loops.
--   Arrays.
--   Methods.
--   Structs.
--   Build Projects.
+    -   [x] Project Creation.
+    -   [x] Datatypes.
+    -   [x] Variables.
+    -   [x] Arithmetic Operators.
+    -   [x] Arithmetic Expressions.
+    -   [ ] Strings.
+    -   [ ] Control Structures.
+    -   [ ] Loops.
+    -   [ ] Arrays.
+    -   [ ] Methods.
+    -   [ ] Structs.
+    -   [ ] Build Projects.
 
-**2. Learn Object-Oriented Programming (OOP):**
+-   [ ] **2. Learn Object-Oriented Programming (OOP):**
 
--   Fundamentals of OOP.
--   Classes and Objects.
--   Constructors.
--   Inheritance and Polymorphism.
--   Interfaces.
--   Generics.
--   Delegates and Events.
--   Learn SOLID principles.
--   Build Projects.
+    -   [ ] Fundamentals of OOP.
+    -   [ ] Classes and Objects.
+    -   [ ] Constructors.
+    -   [ ] Inheritance and Polymorphism.
+    -   [ ] Interfaces.
+    -   [ ] Generics.
+    -   [ ] Delegates and Events.
+    -   [ ] Learn SOLID principles.
+    -   [ ] Build Projects.
 
-**3. Collections and Data Structures:**
+-   [ ] **3. Collections and Data Structures:**
 
--   Recursion.
--   Linked List.
--   Bubble Sort.
--   Insertion Sort.
--   Selection Sort.
--   Merge Sort.
--   Quicksort.
--   Stack.
--   Signs Balance.
--   Queue.
--   Tree.
--   Generic Tree.
--   Binary Tree.
--   Hash Table.
--   Heap.
--   Graph.
--   Dijkstra.
+    -   [ ] Recursion.
+    -   [ ] Linked List.
+    -   [ ] Bubble Sort.
+    -   [ ] Insertion Sort.
+    -   [ ] Selection Sort.
+    -   [ ] Merge Sort.
+    -   [ ] Quicksort.
+    -   [ ] Stack.
+    -   [ ] Signs Balance.
+    -   [ ] Queue.
+    -   [ ] Tree.
+    -   [ ] Generic Tree.
+    -   [ ] Binary Tree.
+    -   [ ] Hash Table.
+    -   [ ] Heap.
+    -   [ ] Graph.
+    -   [ ] Dijkstra.
 
-**4. Web Development:**
+-   [ ] **4. Web Development:**
 
--   `ASP.NET`.
--   Html, CSS & Javascript.
--   Dependency Injection
--   MVC Pattern.
--   `ASP.NET Core`.
--   Razor.
--   Entity Framework (ORM).
--   `ASP.NET Web API`.
--   `ASP.NET Identity`.
--   Build projects.
+    -   [ ] `ASP.NET`.
+    -   [ ] Html, CSS & Javascript.
+    -   [ ] Dependency Injection
+    -   [ ] MVC Pattern.
+    -   [ ] `ASP.NET Core`.
+    -   [ ] Razor.
+    -   [ ] Entity Framework (ORM).
+    -   [ ] `ASP.NET Web API`.
+    -   [ ] `ASP.NET Identity`.
+    -   [ ] Build projects.
 
-**5. Learn Functional Programming (FP):**
+-   [ ] **5. Learn Functional Programming (FP):**
 
--   Fundamentals of FP (Immutability, Higher-Order Functions, Pure Functions, and Lambda Expressions).
--   Functional Programming Constructs (Lambda expressions, LINQ (Language-Integrated Query) And Delegates).
--   Functional Data Structures (Linked Lists, Trees, And Maps).
--   Practice `LINQ`.
--   Practice Writing Pure Functions.
--   Practice Recursion.
--   Monads.
+    -   [ ] Fundamentals of FP (Immutability, Higher-Order Functions, Pure Functions, and Lambda Expressions).
+    -   [ ] Functional Programming Constructs (Lambda expressions, LINQ (Language-Integrated Query) And Delegates).
+    -   [ ] Functional Data Structures (Linked Lists, Trees, And Maps).
+    -   [ ] Practice `LINQ`.
+    -   [ ] Practice Writing Pure Functions.
+    -   [ ] Practice Recursion.
+    -   [ ] Monads.
 
-**6. Advanced Concepts.**
+-   [ ] **6. Advanced Concepts.**
 
--   Reflection.
--   Attributes.
--   Threading and Asynchronous Programming.
--   `LINQ`.
--   Memory Management.
--   Design Patterns.
+    -   [ ] Reflection.
+    -   [ ] Attributes.
+    -   [ ] Threading and Asynchronous Programming.
+    -   [ ] `LINQ`.
+    -   [ ] Memory Management.
+    -   [ ] Design Patterns.
 
 By following this order, you'll build a strong foundation in **C#** and be able to create complex applications with confidence.
