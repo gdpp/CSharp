@@ -1,0 +1,15 @@
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\bin\Debug\net7.0\Variables_II.exe
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\bin\Debug\net7.0\Variables_II.deps.json
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\bin\Debug\net7.0\Variables_II.runtimeconfig.json
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\bin\Debug\net7.0\Variables_II.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\bin\Debug\net7.0\Variables_II.pdb
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\obj\Debug\net7.0\Variables_II.csproj.AssemblyReference.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\obj\Debug\net7.0\Variables_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\obj\Debug\net7.0\Variables_II.AssemblyInfoInputs.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\obj\Debug\net7.0\Variables_II.AssemblyInfo.cs
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\obj\Debug\net7.0\Variables_II.csproj.CoreCompileInputs.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\obj\Debug\net7.0\Variables_II.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\obj\Debug\net7.0\refint\Variables_II.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\obj\Debug\net7.0\Variables_II.pdb
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\obj\Debug\net7.0\Variables_II.genruntimeconfig.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Variables_II\obj\Debug\net7.0\ref\Variables_II.dll
