@@ -1,0 +1,15 @@
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\bin\Debug\net7.0\IfStatement.exe
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\bin\Debug\net7.0\IfStatement.deps.json
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\bin\Debug\net7.0\IfStatement.runtimeconfig.json
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\bin\Debug\net7.0\IfStatement.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\bin\Debug\net7.0\IfStatement.pdb
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\obj\Debug\net7.0\IfStatement.csproj.AssemblyReference.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\obj\Debug\net7.0\IfStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\obj\Debug\net7.0\IfStatement.AssemblyInfoInputs.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\obj\Debug\net7.0\IfStatement.AssemblyInfo.cs
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\obj\Debug\net7.0\IfStatement.csproj.CoreCompileInputs.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\obj\Debug\net7.0\IfStatement.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\obj\Debug\net7.0\refint\IfStatement.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\obj\Debug\net7.0\IfStatement.pdb
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\obj\Debug\net7.0\IfStatement.genruntimeconfig.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\IfStatement\obj\Debug\net7.0\ref\IfStatement.dll
