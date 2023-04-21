@@ -19,13 +19,13 @@ If you're interested in learning **C#**, here's a roadmap that can help guide yo
     -   [x] Variables.
     -   [x] Arithmetic Operators.
     -   [x] Arithmetic Expressions.
-    -   [ ] Strings.
+    -   [x] Strings.
     -   [ ] Control Structures.
     -   [ ] Loops.
     -   [ ] Arrays.
     -   [ ] Methods.
     -   [ ] Structs.
-    -   [ ] Build Projects.
+    -   [ ] Build 2 Console Projects.
 
 -   [ ] **2. Learn Object-Oriented Programming (OOP):**
 
@@ -37,7 +37,8 @@ If you're interested in learning **C#**, here's a roadmap that can help guide yo
     -   [ ] Generics.
     -   [ ] Delegates and Events.
     -   [ ] Learn SOLID principles.
-    -   [ ] Build Projects.
+    -   [ ] Design Patterns.
+    -   [ ] Build 2 Projects.
 
 -   [ ] **3. Collections and Data Structures:**
 
@@ -89,6 +90,5 @@ If you're interested in learning **C#**, here's a roadmap that can help guide yo
     -   [ ] Threading and Asynchronous Programming.
     -   [ ] `LINQ`.
     -   [ ] Memory Management.
-    -   [ ] Design Patterns.
 
 By following this order, you'll build a strong foundation in **C#** and be able to create complex applications with confidence.
