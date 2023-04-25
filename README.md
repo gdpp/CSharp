@@ -23,9 +23,9 @@ If you're interested in learning **C#**, here's a roadmap that can help guide yo
     -   [x] Control Structures.
     -   [x] Loops.
     -   [x] Arrays.
-    -   [ ] Methods.
-    -   [ ] Structs.
-    -   [ ] Build 2 Console Projects.
+    -   [x] Methods.
+    -   [x] Structs.
+    -   [ ] Build Console Projects.
 
 -   [ ] **2. Learn Object-Oriented Programming (OOP):**
 
