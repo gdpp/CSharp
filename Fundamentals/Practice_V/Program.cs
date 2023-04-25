@@ -1,16 +1,26 @@
 ﻿namespace Practice_V
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            // Convert Miles to Kilometers or Kilometers to Miles
+            int[] values = new int[11];
+            int number = 0;
+            string buffer = "";
 
-            // Menu
+            for(int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Enter a number between 0 and 10:");
+                buffer = Console.ReadLine();
+                number = Convert.ToInt32(buffer);
 
-            // Miles to Kilometers
+                values[number]++;
+            }
 
-            // Kilometers to Miles
+            for(int i = 0; i < 11; i++)
+            {
+                Console.WriteLine("The number {0} shows {1} times", i, values[i]);
+            }
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\bin\Debug\net7.0\WhileLoop.exe
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\bin\Debug\net7.0\WhileLoop.deps.json
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\bin\Debug\net7.0\WhileLoop.runtimeconfig.json
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\bin\Debug\net7.0\WhileLoop.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\bin\Debug\net7.0\WhileLoop.pdb
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\obj\Debug\net7.0\WhileLoop.csproj.AssemblyReference.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\obj\Debug\net7.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\obj\Debug\net7.0\WhileLoop.AssemblyInfoInputs.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\obj\Debug\net7.0\WhileLoop.AssemblyInfo.cs
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\obj\Debug\net7.0\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\obj\Debug\net7.0\WhileLoop.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\obj\Debug\net7.0\refint\WhileLoop.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\obj\Debug\net7.0\WhileLoop.pdb
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\obj\Debug\net7.0\WhileLoop.genruntimeconfig.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\WhileLoop\obj\Debug\net7.0\ref\WhileLoop.dll

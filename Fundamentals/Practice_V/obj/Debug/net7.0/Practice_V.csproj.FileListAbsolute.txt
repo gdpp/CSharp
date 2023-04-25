@@ -1,0 +1,15 @@
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\bin\Debug\net7.0\Practice_V.exe
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\bin\Debug\net7.0\Practice_V.deps.json
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\bin\Debug\net7.0\Practice_V.runtimeconfig.json
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\bin\Debug\net7.0\Practice_V.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\bin\Debug\net7.0\Practice_V.pdb
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\obj\Debug\net7.0\Practice_V.csproj.AssemblyReference.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\obj\Debug\net7.0\Practice_V.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\obj\Debug\net7.0\Practice_V.AssemblyInfoInputs.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\obj\Debug\net7.0\Practice_V.AssemblyInfo.cs
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\obj\Debug\net7.0\Practice_V.csproj.CoreCompileInputs.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\obj\Debug\net7.0\Practice_V.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\obj\Debug\net7.0\refint\Practice_V.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\obj\Debug\net7.0\Practice_V.pdb
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\obj\Debug\net7.0\Practice_V.genruntimeconfig.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Practice_V\obj\Debug\net7.0\ref\Practice_V.dll

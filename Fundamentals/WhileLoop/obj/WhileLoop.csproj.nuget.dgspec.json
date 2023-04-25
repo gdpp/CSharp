@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Timmy\\Desktop\\DotNet\\Fundamentals\\IfStatement\\IfStatement.csproj": {}
+    "C:\\Users\\Timmy\\Desktop\\DotNet\\Fundamentals\\WhileLoop\\WhileLoop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Timmy\\Desktop\\DotNet\\Fundamentals\\IfStatement\\IfStatement.csproj": {
+    "C:\\Users\\Timmy\\Desktop\\DotNet\\Fundamentals\\WhileLoop\\WhileLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Timmy\\Desktop\\DotNet\\Fundamentals\\IfStatement\\IfStatement.csproj",
-        "projectName": "Practice_V",
-        "projectPath": "C:\\Users\\Timmy\\Desktop\\DotNet\\Fundamentals\\IfStatement\\IfStatement.csproj",
+        "projectUniqueName": "C:\\Users\\Timmy\\Desktop\\DotNet\\Fundamentals\\WhileLoop\\WhileLoop.csproj",
+        "projectName": "WhileLoop",
+        "projectPath": "C:\\Users\\Timmy\\Desktop\\DotNet\\Fundamentals\\WhileLoop\\WhileLoop.csproj",
         "packagesPath": "C:\\Users\\Timmy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Timmy\\Desktop\\DotNet\\Fundamentals\\Practice_V\\obj\\",
+        "outputPath": "C:\\Users\\Timmy\\Desktop\\DotNet\\Fundamentals\\WhileLoop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Timmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
