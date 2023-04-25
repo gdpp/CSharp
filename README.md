@@ -20,9 +20,9 @@ If you're interested in learning **C#**, here's a roadmap that can help guide yo
     -   [x] Arithmetic Operators.
     -   [x] Arithmetic Expressions.
     -   [x] Strings.
-    -   [ ] Control Structures.
-    -   [ ] Loops.
-    -   [ ] Arrays.
+    -   [x] Control Structures.
+    -   [x] Loops.
+    -   [x] Arrays.
     -   [ ] Methods.
     -   [ ] Structs.
     -   [ ] Build 2 Console Projects.
