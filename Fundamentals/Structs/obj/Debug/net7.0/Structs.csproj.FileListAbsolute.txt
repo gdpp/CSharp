@@ -1,0 +1,15 @@
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\bin\Debug\net7.0\Structs.exe
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\bin\Debug\net7.0\Structs.deps.json
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\bin\Debug\net7.0\Structs.runtimeconfig.json
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\bin\Debug\net7.0\Structs.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\bin\Debug\net7.0\Structs.pdb
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\obj\Debug\net7.0\Structs.csproj.AssemblyReference.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\obj\Debug\net7.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\obj\Debug\net7.0\Structs.AssemblyInfoInputs.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\obj\Debug\net7.0\Structs.AssemblyInfo.cs
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\obj\Debug\net7.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\obj\Debug\net7.0\Structs.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\obj\Debug\net7.0\refint\Structs.dll
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\obj\Debug\net7.0\Structs.pdb
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\obj\Debug\net7.0\Structs.genruntimeconfig.cache
+C:\Users\Timmy\Desktop\DotNet\Fundamentals\Structs\obj\Debug\net7.0\ref\Structs.dll
