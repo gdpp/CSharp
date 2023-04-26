@@ -29,8 +29,10 @@ If you're interested in learning **C#**, here's a roadmap that can help guide yo
 
 -   [ ] **2. Learn Object-Oriented Programming (OOP):**
 
-    -   [ ] Fundamentals of OOP.
-    -   [ ] Classes and Objects.
+    -   [x] Fundamentals of OOP.
+    -   [x] Classes and Objects.
+    -   [x] Getters & Setters.
+    -   [ ] Properties.
     -   [ ] Constructors.
     -   [ ] Inheritance and Polymorphism.
     -   [ ] Interfaces.
@@ -38,7 +40,7 @@ If you're interested in learning **C#**, here's a roadmap that can help guide yo
     -   [ ] Delegates and Events.
     -   [ ] Learn SOLID principles.
     -   [ ] Design Patterns.
-    -   [ ] Build 2 Projects.
+    -   [ ] Build OOP Projects.
 
 -   [ ] **3. Collections and Data Structures:**
 
