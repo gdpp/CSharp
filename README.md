@@ -32,8 +32,9 @@ If you're interested in learning **C#**, here's a roadmap that can help guide yo
     -   [x] Fundamentals of OOP.
     -   [x] Classes and Objects.
     -   [x] Getters & Setters.
-    -   [ ] Properties.
-    -   [ ] Constructors.
+    -   [x] Properties.
+    -   [x] Constructors.
+    -   [ ] Static.
     -   [ ] Inheritance and Polymorphism.
     -   [ ] Interfaces.
     -   [ ] Generics.
