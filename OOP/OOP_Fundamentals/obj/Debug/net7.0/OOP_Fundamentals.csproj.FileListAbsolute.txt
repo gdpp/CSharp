@@ -1,0 +1,15 @@
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\bin\Debug\net7.0\OOP_Fundamentals.exe
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\bin\Debug\net7.0\OOP_Fundamentals.deps.json
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\bin\Debug\net7.0\OOP_Fundamentals.runtimeconfig.json
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\bin\Debug\net7.0\OOP_Fundamentals.dll
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\bin\Debug\net7.0\OOP_Fundamentals.pdb
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\obj\Debug\net7.0\OOP_Fundamentals.csproj.AssemblyReference.cache
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\obj\Debug\net7.0\OOP_Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\obj\Debug\net7.0\OOP_Fundamentals.AssemblyInfoInputs.cache
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\obj\Debug\net7.0\OOP_Fundamentals.AssemblyInfo.cs
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\obj\Debug\net7.0\OOP_Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\obj\Debug\net7.0\OOP_Fundamentals.dll
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\obj\Debug\net7.0\refint\OOP_Fundamentals.dll
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\obj\Debug\net7.0\OOP_Fundamentals.pdb
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\obj\Debug\net7.0\OOP_Fundamentals.genruntimeconfig.cache
+C:\Users\Timmy\Desktop\DotNet\OOP\OOP_Fundamentals\obj\Debug\net7.0\ref\OOP_Fundamentals.dll

@@ -1,0 +1,15 @@
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\bin\Debug\net7.0\Accesors.exe
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\bin\Debug\net7.0\Accesors.deps.json
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\bin\Debug\net7.0\Accesors.runtimeconfig.json
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\bin\Debug\net7.0\Accesors.dll
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\bin\Debug\net7.0\Accesors.pdb
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\obj\Debug\net7.0\Accesors.csproj.AssemblyReference.cache
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\obj\Debug\net7.0\Accesors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\obj\Debug\net7.0\Accesors.AssemblyInfoInputs.cache
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\obj\Debug\net7.0\Accesors.AssemblyInfo.cs
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\obj\Debug\net7.0\Accesors.csproj.CoreCompileInputs.cache
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\obj\Debug\net7.0\Accesors.dll
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\obj\Debug\net7.0\refint\Accesors.dll
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\obj\Debug\net7.0\Accesors.pdb
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\obj\Debug\net7.0\Accesors.genruntimeconfig.cache
+C:\Users\Timmy\Desktop\DotNet\OOP\Accesors\obj\Debug\net7.0\ref\Accesors.dll
