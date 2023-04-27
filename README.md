@@ -34,8 +34,10 @@ If you're interested in learning **C#**, here's a roadmap that can help guide yo
     -   [x] Getters & Setters.
     -   [x] Properties.
     -   [x] Constructors.
-    -   [ ] Static.
-    -   [ ] Inheritance and Polymorphism.
+    -   [x] Static.
+    -   [x] Inheritance and Polymorphism.
+    -   [x] Virtual, Override, Sealed
+    -   [x] Abstract.
     -   [ ] Interfaces.
     -   [ ] Generics.
     -   [ ] Delegates and Events.
