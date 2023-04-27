@@ -12,7 +12,7 @@ With **.NET**, you can use multiple languages, editors, and libraries to build f
 
 If you're interested in learning **C#**, here's a roadmap that can help guide you through the learning process:
 
--   [ ] **1. Learn C# Fundaments:**
+-   [x] **1. Learn C# Fundaments:**
 
     -   [x] Project Creation.
     -   [x] Datatypes.
@@ -25,7 +25,7 @@ If you're interested in learning **C#**, here's a roadmap that can help guide yo
     -   [x] Arrays.
     -   [x] Methods.
     -   [x] Structs.
-    -   [ ] Build Console Project.
+    -   [x] Build Console Project.
 
 -   [ ] **2. Learn Object-Oriented Programming (OOP):**
 
