@@ -41,8 +41,6 @@ If you're interested in learning **C#**, here's a roadmap that can help guide yo
     -   [ ] Interfaces.
     -   [ ] Generics.
     -   [ ] Delegates and Events.
-    -   [ ] Learn SOLID principles.
-    -   [ ] Design Patterns.
     -   [ ] Build OOP Project.
 
 -   [ ] **3. Collections and Data Structures:**
@@ -90,6 +88,8 @@ If you're interested in learning **C#**, here's a roadmap that can help guide yo
 
 -   [ ] **6. Advanced Concepts.**
 
+    -   [ ] Learn SOLID principles.
+    -   [ ] Design Patterns.
     -   [ ] Reflection.
     -   [ ] Attributes.
     -   [ ] Threading and Asynchronous Programming.
