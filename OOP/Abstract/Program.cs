@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            // Abstract Class and Methods
+
+            // The abstract classes can't be instatiante directly
+            
+
         }
     }
 }
