@@ -39,8 +39,8 @@ If you're interested in learning **C#**, here's a roadmap that can help guide yo
     -   [x] Virtual, Override, Sealed
     -   [x] Abstract.
     -   [x] Interfaces.
-    -   [ ] Delegates and Events.
-    -   [ ] Generics.
+    -   [x] Delegates and Events.
+    -   [x] Generics.
     -   [ ] Build OOP Project.
 
 -   [ ] **3. Collections and Data Structures:**
